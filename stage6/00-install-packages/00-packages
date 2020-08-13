@@ -1,0 +1,14 @@
+vim
+git
+python3-yaml
+python3-gi
+python3-flask
+gir1.2-gst-rtsp-server-1.0
+gstreamer1.0-plugins-good
+gstreamer1.0-plugins-bad
+gstreamer1.0-plugins-ugly
+gstreamer1.0-tools
+gstreamer1.0-alsa
+gstreamer1.0-libav
+gstreamer1.0-omx
+nginx
